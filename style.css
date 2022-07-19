@@ -33,14 +33,3 @@ section {
     padding: 10px 40px;
     border-radius: 5px;
 }
-
-.banner {
-    background-image: url(img/top-banner.png);
-    background-repeat: no-repeat;
-}
-
-.dream-big {
-    background-image: url(img/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-}
